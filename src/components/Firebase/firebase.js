@@ -6,12 +6,12 @@ import 'firebase/database';
 import firebase from 'firebase';
 
 const config = {
-    apiKey: "AIzaSyDhry9NyB0QZNBIzGPzKeCfrHtb0MFSNKs",
-    authDomain: "my-expense-tracker-app.firebaseapp.com",
-    databaseURL: "https://my-expense-tracker-app.firebaseio.com",
-    projectId: "my-expense-tracker-app",
-    storageBucket: "my-expense-tracker-app.appspot.com",
-    messagingSenderId: "788607331628",
+    apiKey: "****************************",
+    authDomain: "*****************************",
+    databaseURL: "**********************",
+    projectId: "***************************",
+    storageBucket: "***************************",
+    messagingSenderId: "***************************",
 };
 /**
 class Firebase {
